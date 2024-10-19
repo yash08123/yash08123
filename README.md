@@ -1,5 +1,5 @@
 
- - My name's Yash and I'm from India
+## Hello I'm Yash
 - 🔭 I’m a Final Year Student in Information Technology.
 - 🌱 I’m passionate about full stack web development, websites and applications.
 - 👯 I’m looking to collaborate on Open-source Projects.
